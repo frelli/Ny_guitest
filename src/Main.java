@@ -4,6 +4,7 @@ import javax.swing.JFrame;
 
 public class Main {
 	//commit test!
+	//test från github.com
 	public static void main(String[] args) {
 		JFrame frame = new JFrame("Solaris");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
