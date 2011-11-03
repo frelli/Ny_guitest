@@ -7,8 +7,10 @@ public class Main {
 	//Tjenare!!!!
 	//test frÃ¥n github.com
 	//huhuhu
-	// JOAKIM ÄR BÄST
-	public static void main(String[] args) {
+	// JOAKIM ï¿½R Bï¿½ST
+	//OMLKMÃ–LKLJLKMLKMLKMLKMLKMLKMLKMKLM
+
+public static void main(String[] args) {
 		JFrame frame = new JFrame("Solaris");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
