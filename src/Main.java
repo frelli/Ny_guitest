@@ -10,6 +10,7 @@ public class Main {
 	// JOAKIM �R B�ST
 	//OMLKMÖLKLJLKMLKMLKMLKMLKMLKMLKMKLM
 	//fredrik_____
+	// fjeeeedriiiik!!!!!!
 
 public static void main(String[] args) {
 		JFrame frame = new JFrame("Solaris");
