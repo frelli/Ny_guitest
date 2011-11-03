@@ -9,6 +9,7 @@ public class Main {
 	//huhuhu
 	// JOAKIM �R B�ST
 	//OMLKMÖLKLJLKMLKMLKMLKMLKMLKMLKMKLM
+	//fredrik_____
 
 public static void main(String[] args) {
 		JFrame frame = new JFrame("Solaris");
