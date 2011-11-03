@@ -4,6 +4,7 @@ import javax.swing.JFrame;
 
 public class Main {
 	//commit test!
+	//Tjenare!!!!
 	//test från github.com
 	public static void main(String[] args) {
 		JFrame frame = new JFrame("Solaris");
